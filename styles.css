@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(41, 41, 41);
+    color: rgb(165, 176, 180);
+}
+
+.all-content {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(69, 76, 85);
+    padding: 15px;
+    border: solid rgb(165, 176, 180) 1px;
+}
+
+.titulo, .subtitulo {
+    color: rgb(233, 233, 233);
+}
+
+img {
+    width: 100%;
+}
